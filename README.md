@@ -3,7 +3,8 @@
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![lifecycle](https://img.shields.io/badge/version-2026-red.svg)]()
 
-This lab...
+This lab introduces the Difference-in-Differences (DiD) method through a study of online reputation management, replicating results from Proserpio and Zervas (2017) to estimate the causal impact of hotel management responses on consumer review ratings.
+
 
 ## Meta-Information
 

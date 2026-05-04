@@ -28,7 +28,7 @@ $ cd your/path/to/smwa-material
 git clone https://github.com/course-web-analytics/lab4-did.git
 ```
 
-Once you have cloned the files, open the cloned repository in RStudio as an RStudio project and work through the questions in `lab-did.Rmd`.
+Once you have cloned the files, open the cloned repository in RStudio as an RStudio project and work through the questions in `lab_did.Rmd`.
 
 
 ## License
